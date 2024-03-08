@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Leo Ramos</h1>
+<h1 align="center">Hi 👋, I'm Leo R.</h1>
 <h3 align="center">A passionate developer from Florida</h3>
 
 - 📫 How to reach me **leo.ramos70@icloud.com**
